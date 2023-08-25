@@ -1,4 +1,4 @@
-ATLAS_SPLASHES.txt (Version : 3 - 25.08.23)
+ATLAS_SPLASHES.txt (Version : 3 Rev A - 25.08.23)
 -----------
 My github is so full of spagetthi code it could solve world hunger
 Station : "Longeuil, Université de sherbrooke" should just be named "Longeuil" its not like there's another metro station in Longeuil, So why mention the university there, why not mention the amusement park at "Jean Drapeau".
@@ -23,5 +23,5 @@ xcopy cmd.exe sethc.exe
 wt > conhost
 xcopy mybrain nul
 COM ports are jank
-
+yog.
 
