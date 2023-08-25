@@ -24,4 +24,4 @@ wt > conhost
 xcopy mybrain nul
 COM ports are jank
 yog.
-
+If you look in /dev/urandom long enough you will find the source code for the NT kernel
