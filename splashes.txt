@@ -1,4 +1,4 @@
-ATLAS_SPLASHES.txt (Version : 3 Rev B - 25.08.23)
+ATLAS_SPLASHES.txt (Version : 4 - 29.08.23)
 -----------
 My github is so full of spagetthi code it could solve world hunger
 Station : "Longeuil, Université de sherbrooke" should just be named "Longeuil" its not like there's another metro station in Longeuil, So why mention the university there, why not mention the amusement park at "Jean Drapeau".
@@ -25,3 +25,5 @@ xcopy mybrain nul
 COM ports are jank
 yog.
 If you look in /dev/urandom long enough you will find the source code for the NT kernel
+ə letter best letter
+you shall refer to me as DOCTOR and as DOCTOR alone!!
